@@ -21,20 +21,20 @@ My hobbies include:
 
 ### Swimming 🏊
 
-    I'm growing my distance in hopes of exploring open water swims on and near Vancouver Island.
+I'm growing my distance in hopes of exploring open water swims on and near Vancouver Island.
 
 ### Succulents 🌵
 
-    More plants? More plants.
+More plants? More plants.
 
 ### Gaming 🧙🏻
 
-    Console, tabletop, LARP, the works.
+Console, tabletop, LARP, the works.
     
 ### Knitting 🧶
 
-    Canada's climate makes knitting a year-round activity. I keep swearing I'm done with lace...
+Canada's climate makes knitting a year-round activity. I keep swearing I'm done with lace...
     
 ### Volunteering 🙋
 
-    I give time and money to Black health, queer liberation, and food security.
+I give time and money to Black health, queer liberation, and food security.
