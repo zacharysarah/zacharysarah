@@ -11,11 +11,11 @@ My gender is masculine non-binary, prounouns are he/him or they/them.
 [CNCF]: https://cncf.io "CNCF"
 [Linux Foundation]: https://linuxfoundation.org "Linux Foundation"
 
-## 🇨🇦
+## Location 🇨🇦
 
 I'm a new immigrant to Canada, always happy to talk OSS and docs in Victoria, BC and remotely.
 
-## 🏊🌵🧙🏻🧶🙋
+## Hobbies 🏊🌵🧙🏻🧶🙋
 
 My hobbies include:
 
