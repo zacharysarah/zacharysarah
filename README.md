@@ -6,6 +6,8 @@ Professionally, I do developer docs, cat herding, and open source software (OSS)
 
 I freelance proofread technical books, fiction, and projects for which I'm passionate. If you need a proofreader, feel free to [contact me](mailto:zach@corleissen.com) about availability and rates.
 
+Check out my [résumé, writing samples, and presentations](https://github.com/zacharysarah/public/tree/main/professional).
+
 My gender is masculine non-binary, prounouns are he/him or they/them.
 
 [CNCF]: https://cncf.io "CNCF"
