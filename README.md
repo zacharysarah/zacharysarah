@@ -10,6 +10,8 @@ I'm currently a staff technical writer at [Stripe] and contribute to various ope
 
 I've spoken at [FOSDEM], [KubeCon/CloudNativeCon], and Write the Docs [North America] and [Europe]. I'm actively seeking CFPs for docs talks at developer conferences and local meetups.
 
+## Editing
+
 I proofread technical books, fiction, and other projects for which I'm passionate on a freelance basis. Feel free to [contact me](mailto:zach@corleissen.com) about availability and rates.
 
 ## Hobbies
