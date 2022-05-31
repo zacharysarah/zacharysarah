@@ -12,7 +12,7 @@ I've spoken at [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Doc
 
 ## Editing
 
-I proofread technical books, fiction, and other projects about which I'm passionate on a freelance basis. Feel free to [contact me](mailto:zach@corleissen.com) for availability and rates.
+I proofread technical books, fiction, and other projects on a freelance basis. Feel free to [contact me](mailto:zach@corleissen.com) for availability and rates.
 
 ## Hobbies
 
