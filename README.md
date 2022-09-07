@@ -1,6 +1,6 @@
 ## :wave:
 
-I'm Zachary Sarah Corleissen (Zach or Sarah, they/she).
+I'm Sarah Corleissen (she/her).
 
 ## Technical documentation
 
