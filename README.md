@@ -8,11 +8,11 @@ I have 15+ years of experience in technical writing with a focus on developer do
 
 My previous employers include Stripe, the Linux Foundation, GitHub, Rackspace, and a handful of startups.
 
-I've spoken at [Open Source Summit], [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Docs [North America] and [Europe]. I'm actively seeking CFPs for docs talks at developer conferences and local meetups.
+I've spoken at [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Docs [North America] and [Europe]. I'm actively seeking CFPs for docs talks at developer conferences and local meetups.
 
 ## Editing
 
-I proofread technical books, fiction, and other projects on a freelance basis. Feel free to [contact me](mailto:zach@corleissen.com) for availability and rates.
+I proofread technical books, fiction, and other projects on a freelance basis. Feel free to [contact me](mailto:sarah@corleissen.com) for availability and rates.
 
 ## Hobbies
 
@@ -21,7 +21,6 @@ My hobbies include lap swimming, knitting, gardening, roleplaying games, and vol
 
 
 [docs-for-devs]: https://link.springer.com/book/10.1007/978-1-4842-7217-6
-[Open Source Summit]: https://ossjapan2022.sched.com/event/1D108
 [PyCon US]: https://www.youtube.com/watch?v=0k9UkMrMBYM
 [FOSDEM]: https://archive.fosdem.org/2019/schedule/event/multikuber/
 [KubeCon/CloudNativeCon]: https://kccncna20.sched.com/speaker/zach_corleissen.21luzb09
