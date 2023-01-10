@@ -10,7 +10,7 @@ I'm currently the Head of Documentation for [Isovalent]. My previous employers i
 
 I've spoken at [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Docs [North America] and [Europe]. I'm actively seeking CFPs for docs talks at developer conferences and local meetups.
 
-I also speak on podcasts like [Let's Talk Docs] and [fukabori.fm]. 
+I also talk about docs on podcasts like [Let's Talk Docs] and [fukabori.fm]. 
 
 ## Editing
 
