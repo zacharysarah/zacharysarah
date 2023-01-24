@@ -1,6 +1,6 @@
 ## :wave:
 
-I'm Sarah Corleissen (she/her). I'm a transgender woman 🏳️‍⚧️ living and working in Victoria, BC 🇨🇦. 
+Hi, I'm Sarah Corleissen (she/her). I'm a transgender woman 🏳️‍⚧️ living and working in Victoria, BC 🇨🇦. 
 
 ## Technical documentation
 
