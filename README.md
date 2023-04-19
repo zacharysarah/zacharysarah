@@ -18,7 +18,7 @@ I proofread technical books, fiction, and other projects on a freelance basis. F
 
 ## Hobbies
 
-My hobbies include walking along the seaside, reading fiction, knitting sweaters, playing Dungeons & Dragons, and volunteering at UBC Medical School.
+My hobbies include reading and writing fiction, knitting sweaters, roleplaying games, and volunteering at UBC Medical School.
 
 
 
