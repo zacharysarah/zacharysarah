@@ -1,10 +1,10 @@
 ## :wave:
 
-Hi, I'm Sarah Corleissen (she/her). I'm a transgender woman 🏳️‍⚧️ living and working in Victoria, BC 🇨🇦. 
+Hi, I'm Sarah Corleissen (she/her). I'm a transgender woman 🏳️‍⚧️ living and working in Victoria, BC 🇨🇦. I have 15+ years of experience in technical writing with a focus on developer docs. 
 
 ## Technical documentation
 
-I have 15+ years of experience in technical writing with a focus on developer docs. I'm a co-author of [Docs for Developers: An Engineer's Field Guide to Technical Writing][docs-for-devs].
+I'm a co-author of [Docs for Developers: An Engineer's Field Guide to Technical Writing][docs-for-devs].
 
 I'm currently the Head of Documentation for [Isovalent]. My previous employers include Stripe, the Linux Foundation, GitHub, Rackspace, and a handful of startups.
 
