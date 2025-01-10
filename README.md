@@ -1,6 +1,6 @@
-## :wave:
+## 👋 🏳️‍⚧️ 🇨🇦
 
-Hi, I'm Sarah Corleissen (she/her). I'm a transgender woman 🏳️‍⚧️ living and working in Victoria, BC 🇨🇦. I have 15+ years of experience in technical writing with a focus on developer docs. 
+Hi, I'm Sarah Corleissen (she/her). I have 15+ years of experience in technical writing with a focus on developer docs. I live and work in Victoria, BC.
 
 ## Technical documentation
 
