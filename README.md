@@ -1,6 +1,6 @@
 ## 👋 🏳️‍⚧️ 🇨🇦
 
-Hi, I'm Sarah Corleissen (she/her). I have 15+ years of experience in technical writing with a focus on developer docs. I live and work in Victoria, BC.
+Hi, I'm Sarah Corleissen (she/her). I have 10+ years of experience in technical writing with a focus on developer docs. I live and work remotely in Victoria, BC.
 
 ## Technical documentation
 
@@ -10,7 +10,9 @@ I'm currently the Head of Documentation for [Isovalent]. My previous employers i
 
 I've spoken at [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Docs [North America] and [Europe]. I'm actively seeking CFPs for docs talks at developer conferences and local meetups.
 
-I also talk about docs on podcasts like [Let's Talk Docs] and [fukabori.fm]. 
+I also talk about docs on podcasts like [Let's Talk Docs] and [fukabori.fm].
+
+[Take a look at my resume](/resume/zscorleissen-resume.pdf).
 
 ## Editing
 
