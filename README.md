@@ -12,7 +12,7 @@ I've spoken at [PyCon US], [FOSDEM], [KubeCon/CloudNativeCon], and Write the Doc
 
 I also talk about docs on podcasts like [Let's Talk Docs] and [fukabori.fm].
 
-Feel free to [take a look at my resume](/resume/zscorleissen-resume.pdf).
+Feel free to [take a look at my resume](/resume/scorleissen-resume.pdf).
 
 ## Editing
 
