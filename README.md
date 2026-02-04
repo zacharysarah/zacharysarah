@@ -1,6 +1,6 @@
 ## 👋 🏳️‍⚧️ 🇨🇦
 
-Hi, I'm Sarah Corleissen (she/her). I have 10+ years of experience in technical writing with a focus on developer docs. I live and work remotely in Victoria, BC.
+Hi, I'm Sarah Corleissen (she/her). I have 10+ years of experience in technical writing with a focus on developer docs. I live and work remotely in Seattle, WA and Victoria, BC.
 
 ## Technical documentation
 
